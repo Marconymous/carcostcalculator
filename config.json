@@ -1,0 +1,22 @@
+{
+  "routes": [
+    {
+      "name": "School: Horgen Bahnhof",
+      "distance": 25,
+      "times": 4
+    },
+
+    {
+      "name": "Work: Altstetten Badenerstrasse 547",
+      "distance": 43,
+      "times": 6
+    },
+
+    {
+      "name": "Errands etc.",
+      "distance": 50,
+      "times": 1
+    }
+  ],
+  "fuelCost": 2
+}
